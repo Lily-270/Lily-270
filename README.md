@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lily-270
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning Java programming language
+- 👀 I’m interested in Front-End developing
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on projects in this app
 - 😄 Pronouns: her
 
