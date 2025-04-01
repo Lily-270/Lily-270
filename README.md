@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://media.tenor.com/pBdSZujHiacAAAAM/tkthao219-bunny.gif" height="100" width="100"/>
-  <p>📚 I'm currently learning front-end developing <br>🎯 Goals: Create a lot of useful projects and become a great SWE ❤️<br></p>
+  <p>📚 I'm currently learning front-end development. <br>🎯 Goals: Create a lot of useful projects and become a great SWE ❤️<br></p>
 </div>
 
 - 🌱 I’m currently learning **Bootstrap and React.js**
