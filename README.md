@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lilyan✨ </h1>
-<h3 align="center">A passionate Software engineering student</h3>
+<h3 align="center">A passionate Computer Science student</h3>
 
 <div align="center">
   <img src="https://media.tenor.com/pBdSZujHiacAAAAM/tkthao219-bunny.gif" height="100" width="100"/>
